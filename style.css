@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(61, 60, 60);
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height:80vh;
+}
+.main,h1 {
+    color: rgb(246, 238, 238);
+}
+.clock {
+   font-size: 30px;
+   background-color: rgb(14, 12, 12);
+   padding-left: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border-radius: 10px;
+   width: 30vh;
+}
